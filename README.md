@@ -1,15 +1,11 @@
 # power-bi-cohort-retention-analysis
  Power BI cohort analysis exploring customer retention and performance across monthly cohorts.
 
- ##Project Overview
-
-This project explores customer retention and performance across monthly cohorts using Microsoft Power BI.
-
+#Project Overview
 The analysis uses order data from January to December 2024 to examine how customer activity changes across subsequent periods. An interactive cohort matrix allows users to switch between customer counts and percentage-based metrics to explore cohort performance.
-
 The project demonstrates data preparation, calculated columns, DAX measures, field parameters, matrix visualizations, and conditional formatting in Power BI.
 
-🎯 Business Objectives
+##Business Objectives
 
 - Analyze customer behavior across monthly cohorts.
 - Understand how customer counts change across subsequent periods.

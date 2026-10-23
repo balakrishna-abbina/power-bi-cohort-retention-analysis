@@ -18,20 +18,8 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
  -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/cohort_orders_dataset.xlsx">Dataset used </a>
  
 
-The project uses an order-level dataset containing the following fields visible in the source dataset:
 
-Column| Description
-"order_date"| Date associated with the order
-"customer_id"| Customer identifier
-"order_id"| Order identifier
-"store_id"| Store identifier
-"store_order"| Numeric order value shown in the dataset
-
-The dataset is used to prepare customer cohort information and analyze customer counts and percentage-based metrics over time.
-
-Dataset: "View the dataset" (data/cohort_orders_dataset.xlsx)
-
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 - Microsoft Power BI Desktop — report development and visualization
 - DAX — calculated columns and measures

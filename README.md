@@ -17,8 +17,15 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
 
  Dataset
  -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/cohort_orders_dataset.xlsx">Dataset used </a>
+ 
  Image 1 
- -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/Screenshot%202026-10-23%20212308.png">report 1 </a>
+ -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/Screenshot%202026-10-23%20212308.png">report 1.1 </a>
+
+ Image 2 
+ -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/Screenshot%202026-10-23%20212353.png">report 1.2 </a>
+
+ Image 3
+ -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/Screenshot%202026-10-23%20212448.png">report 1.3 </a>
  
 
 

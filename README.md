@@ -2,6 +2,7 @@
  Power BI cohort analysis exploring customer retention and performance across monthly cohorts.
 
 #Project Overview
+
 The analysis uses order data from January to December 2024 to examine how customer activity changes across subsequent periods. An interactive cohort matrix allows users to switch between customer counts and percentage-based metrics to explore cohort performance.
 The project demonstrates data preparation, calculated columns, DAX measures, field parameters, matrix visualizations, and conditional formatting in Power BI.
 
@@ -16,6 +17,8 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
 
  Dataset
  -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/cohort_orders_dataset.xlsx">Dataset used </a>
+ 
+ -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/Screenshot%202026-10-23%20212308.png">report 1 </a>
  
 
 

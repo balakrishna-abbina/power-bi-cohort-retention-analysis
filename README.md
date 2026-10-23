@@ -1,4 +1,4 @@
-# power-bi-cohort-retention-analysis
+# Power-bi-cohort-retention-analysis
  Power BI cohort analysis exploring customer retention and performance across monthly cohorts.
 
 #Project Overview

@@ -38,7 +38,6 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
 - Conditional Formatting — visual comparison of cohort values
 - Excel — viewing the source dataset
 
-🔄 Data Preparation & DAX
 
 1. Calculated Columns
 
@@ -83,7 +82,7 @@ A field parameter named "status" was created to switch the matrix between the av
 
 This allows users to explore customer counts and percentage-based performance within the same report visual.
 
-📈 Dashboard & Visualizations
+##Dashboard & Visualizations
 
 Customer Cohort Matrix
 
@@ -91,29 +90,13 @@ The customer-count matrix displays monthly cohorts from January to December 2024
 
 The matrix uses conditional formatting to help distinguish higher and lower customer counts. Blank future periods remain unpopulated where data is not available.
 
-"Customer Cohort Matrix" (screenshots/cohort_customers.png)
 
-"Open the customer cohort screenshot" (screenshots/cohort_customers.png)
-
-Percentage-Based Cohort Matrix
-
-The percentage view displays the "conversion rate" measure across the same monthly cohort structure.
-
-The field parameter allows users to switch from customer counts to percentages without requiring a separate matrix for each measure.
-
-"Conversion Rate Cohort Matrix" (screenshots/cohort_conversion_rate.png)
-
-"Open the percentage cohort screenshot" (screenshots/cohort_conversion_rate.png)
-
-Dataset Preview
+##Dataset Preview
 
 The source dataset contains order dates, customer identifiers, order identifiers, store identifiers, and order values.
 
-"Dataset Preview" (screenshots/dataset_preview.png)
 
-"Open the dataset screenshot" (screenshots/dataset_preview.png)
-
-🔍 Initial Observations
+##Initial Observations
 
 Based on the customer-count matrix displayed in Power BI:
 
@@ -144,7 +127,7 @@ Period| Displayed percentage
 
 These percentages are reproduced from the displayed report. Their precise interpretation requires validation of the "conversion rate" measure.
 
-💡 Business Value
+##Business Value
 
 Cohort analysis helps businesses understand how customer activity evolves after an initial purchase or other defined starting event.
 
@@ -158,7 +141,7 @@ Potential business applications include:
 
 The results can support further investigation into customer behavior, but business recommendations should be based on validated metric definitions and the underlying data.
 
-📚 Key Power BI Concepts Demonstrated
+##Key Power BI Concepts Demonstrated
 
 - DAX calculated columns
 - DAX measures
@@ -171,30 +154,3 @@ The results can support further investigation into customer behavior, but busine
 - Percentage-based performance analysis
 - Interactive report design
 
-🚀 Future Improvements
-
-- Document the complete DAX formulas and their logic.
-- Validate the percentage measure and its denominator.
-- Add KPI cards for key cohort metrics.
-- Add slicers for relevant business dimensions.
-- Include a written summary of validated insights and recommendations.
-- Improve the report with additional cohort comparisons where the dataset supports them.
-
-📂 Project Files
-
-- "Source Dataset" (data/cohort_orders_dataset.xlsx)
-- "Power BI Report" (powerbi/cohort_retention_analysis.pbix)
-- "Customer Cohort Screenshot" (screenshots/cohort_customers.png)
-- "Percentage Cohort Screenshot" (screenshots/cohort_conversion_rate.png)
-- "Dataset Preview" (screenshots/dataset_preview.png)
-- "Business Insights" (insights.md)
-
-👤 Author
-
-Data Analyst Portfolio Project
-
-Developed using Microsoft Power BI, DAX, and Excel to explore monthly customer cohorts and customer performance.
-
----
-
-This project is intended for learning, portfolio development, and demonstrating practical data analytics skills.

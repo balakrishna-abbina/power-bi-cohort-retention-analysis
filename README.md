@@ -1,7 +1,7 @@
 # power-bi-cohort-retention-analysis
  Power BI cohort analysis exploring customer retention and performance across monthly cohorts.
 
- #Project Overview
+ ##Project Overview
 
 This project explores customer retention and performance across monthly cohorts using Microsoft Power BI.
 

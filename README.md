@@ -15,6 +15,8 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
 - Provide a foundation for data-driven customer retention analysis.
 
  Dataset
+ -<a href="https://github.com/6281566935/power-bi-cohort-retention-analysis/blob/main/cohort_orders_dataset.xlsx">Dataset</a>
+ 
 
 The project uses an order-level dataset containing the following fields visible in the source dataset:
 

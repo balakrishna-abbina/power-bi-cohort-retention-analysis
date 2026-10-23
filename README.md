@@ -14,28 +14,7 @@ The project demonstrates data preparation, calculated columns, DAX measures, fie
 - Make cohort patterns easier to interpret through conditional formatting.
 - Provide a foundation for data-driven customer retention analysis.
 
-🗂️ Project Structure
-
-power-bi-cohort-retention-analysis/
-│
-├── README.md
-│
-├── data/
-│   └── cohort_orders_dataset.xlsx
-│
-├── powerbi/
-│   └── cohort_retention_analysis.pbix
-│
-├── screenshots/
-│   ├── cohort_customers.png
-│   ├── cohort_conversion_rate.png
-│   └── dataset_preview.png
-│
-└── insights.md
-
-Note: The filenames above are suggested examples. Rename the links and files to match your actual GitHub repository.
-
-📁 Dataset
+ Dataset
 
 The project uses an order-level dataset containing the following fields visible in the source dataset:
 
